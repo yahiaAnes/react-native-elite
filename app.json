@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "test",
-    "slug": "test",
+    "name": "yahia",
+    "scheme": "yahia",
+    "slug": "yahia",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/DMC.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/DMC.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/DMC.png",
         "backgroundColor": "#ffffff"
       }
     },
